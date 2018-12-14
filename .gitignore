@@ -1,0 +1,7 @@
+obj/
+bin/
+packages/
+PostDeployScripts/
+*.pubxml.user
+*.csproj.user
+.vs/
