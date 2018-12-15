@@ -7,6 +7,11 @@ Bot Framework SDKで作成されたQnA Maker用のコードサンプル
 - チャットボットの会話フローを作る。（元のサンプルは質問文を入れると回答が返ってくるだけで、そっけなさすぎるので少し会話を作りました。
 - Application Insightに書き込まれる会話ログが少なすぎるので、追加しました。
 
+## 環境情報
+- C#
+- Visual Studio 2017
+- .Net Framework (.Net Coreではない）
+
 ## 使い方
 
 ①Visual Studioでソリューションファイル「ChatBotApp.sln」を開く
